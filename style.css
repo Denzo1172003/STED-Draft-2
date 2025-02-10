@@ -225,7 +225,7 @@ a{
 /*---------- SLIDER START ----------*/
 .slider{
     height: 100vh;
-    margin-top: var(--header-height); /* DEPENDS ON THE HEIGHT OF THE NAVBAR */
+    margin-top: var(--header-height) - 1rem; /* DEPENDS ON THE HEIGHT OF THE NAVBAR */
     position: relative;
 }
 
