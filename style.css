@@ -64,7 +64,7 @@ a{
     background-color: var(--dark-color);
     z-index: var(--z-fixed);
     background: linear-gradient(
-        to bottom, var(--dark-color) 80%, transparent
+        to bottom, var(--dark-color) 60%, transparent
     );
 }
 
